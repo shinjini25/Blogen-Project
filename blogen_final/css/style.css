@@ -1,0 +1,61 @@
+body { background: #14274e;
+  font-family: 'Cabin', sans-serif;
+  font-weight: bold;
+}
+
+.actionss{
+  background-color: #52057b;
+}
+.headerr{
+  color: white;
+}
+.navv{
+background-color: #14274e;
+
+}
+.btnn{
+  font-weight: bold;
+color: #FF5fe0;
+
+}
+.bold{
+  font-weight: bolder;
+}
+.foot{
+  background-color: #394867;
+}
+
+.loweight{
+
+  font-weight: lighter;
+
+}
+.navtext{
+  color:#FFFC00;
+  font-size: 2.5rem;
+}
+.car{
+  background-color: #39FF14;
+  opacity: 0.92;
+}
+.pas{
+  background-color: #FF0099;
+}
+.usercol{
+  background-color: #FF0099;
+}
+.catcol{
+  background-color: #CC00FF;
+}
+.grey{
+  color: #FFFC00;
+}
+.pink {
+  background-color: #A117F2;
+}
+.blue{
+  background-color:#15f4ee;
+}
+.neon-green{
+  color: #39FF14;
+}
